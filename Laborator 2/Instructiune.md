@@ -1,3 +1,3 @@
 1. Modifică numele aplicaţiei
 2. Modifică launcerul (imaginea logo)
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![](https://github.com/sss-Mihail-sss/Dezvoltarea-aplicatiilor-pentru-dispozitive-mobile/blob/main/Laborator%202/Img/1.1.png)
