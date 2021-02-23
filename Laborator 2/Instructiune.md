@@ -4,14 +4,14 @@
 
 2. Modifică launcerul (imaginea logo)
   Click dreapta pe app -> New -> Image Asset
-  ![](https://github.com/sss-Mihail-sss/Dezvoltarea-aplicatiilor-pentru-dispozitive-mobile/blob/main/Laborator%202/Img/2.1.png | width=100)
+  ![](https://github.com/sss-Mihail-sss/Dezvoltarea-aplicatiilor-pentru-dispozitive-mobile/blob/main/Laborator%202/Img/2.1.png =250x250)
   Tastam iconita folderului im campul Path
-  ![](https://github.com/sss-Mihail-sss/Dezvoltarea-aplicatiilor-pentru-dispozitive-mobile/blob/main/Laborator%202/Img/2.2.png | width=100)
+  ![](https://github.com/sss-Mihail-sss/Dezvoltarea-aplicatiilor-pentru-dispozitive-mobile/blob/main/Laborator%202/Img/2.2.png =250x250)
   Iconita calculatorului din meniul de sus
-  ![](https://github.com/sss-Mihail-sss/Dezvoltarea-aplicatiilor-pentru-dispozitive-mobile/blob/main/Laborator%202/Img/2.3.png | width=100)
+  ![](https://github.com/sss-Mihail-sss/Dezvoltarea-aplicatiilor-pentru-dispozitive-mobile/blob/main/Laborator%202/Img/2.3.png =250x250)
   Selectam imaginea dorit -> tastam "Ok"
-  ![](https://github.com/sss-Mihail-sss/Dezvoltarea-aplicatiilor-pentru-dispozitive-mobile/blob/main/Laborator%202/Img/2.4.png | width=100)
+  ![](https://github.com/sss-Mihail-sss/Dezvoltarea-aplicatiilor-pentru-dispozitive-mobile/blob/main/Laborator%202/Img/2.4.png =250x250)
   Next
-  ![](https://github.com/sss-Mihail-sss/Dezvoltarea-aplicatiilor-pentru-dispozitive-mobile/blob/main/Laborator%202/Img/2.5.png | width=100)
+  ![](https://github.com/sss-Mihail-sss/Dezvoltarea-aplicatiilor-pentru-dispozitive-mobile/blob/main/Laborator%202/Img/2.5.png =250x250)
   Next
-  ![](https://github.com/sss-Mihail-sss/Dezvoltarea-aplicatiilor-pentru-dispozitive-mobile/blob/main/Laborator%202/Img/2.6.png | width=100)
+  ![](https://github.com/sss-Mihail-sss/Dezvoltarea-aplicatiilor-pentru-dispozitive-mobile/blob/main/Laborator%202/Img/2.6.png =250x250)
