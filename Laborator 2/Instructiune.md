@@ -1,4 +1,4 @@
-1. Modifică numele aplicaţiei
+1. Modifică numele aplicaţiei_
   app (din ferestra din partea stanga) -> res -> values -> Dublu click pe strings.xml -> in campul '<string name="app_name">' redenumesti aplicatia
 ![](https://github.com/sss-Mihail-sss/Dezvoltarea-aplicatiilor-pentru-dispozitive-mobile/blob/main/Laborator%202/Img/1.1.png)
 
